@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlantProject2024</string>
+
+    <string name="prompt_placeholder">Tell me what is this</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="chat">Message</string>
+</resources>

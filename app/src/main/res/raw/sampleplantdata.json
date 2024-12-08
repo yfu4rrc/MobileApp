@@ -1,0 +1,67 @@
+[
+  {
+    "plantName": "Rose",
+    "binomialName": "Rosa",
+    "commonName": "Rose",
+    "toxicity": false,
+    "image": null,
+    "sunExposure": "FULL_SUN",
+    "soilType": "LOAMY",
+    "nativeArea": "Asia",
+    "description": "A flowering plant with a variety of colors and a sweet fragrance.",
+    "careLevel": "MEDIUM",
+    "wateringFrequency": "WEEKLY"
+  },
+  {
+    "plantName": "Spider Plant",
+    "binomialName": "Chlorophytum comosum",
+    "commonName": "Spider Plant",
+    "toxicity": false,
+    "image": null,
+    "sunExposure": "PARTIAL_SHADE",
+    "soilType": "WELL_DRAINED",
+    "nativeArea": "Africa",
+    "description": "An easy-to-care-for plant with long, slender green leaves.",
+    "careLevel": "EASY",
+    "wateringFrequency": "BIWEEKLY"
+  },
+  {
+    "plantName": "Philodendron",
+    "binomialName": "Philodendron scandens",
+    "commonName": null,
+    "toxicity": true,
+    "image": null,
+    "sunExposure": "INDIRECT_LIGHT",
+    "soilType": "WELL_DRAINED",
+    "nativeArea": "Central America",
+    "description": "A fast-growing vine with heart-shaped leaves.",
+    "careLevel": "EASY",
+    "wateringFrequency": "WEEKLY"
+  },
+  {
+    "plantName": "Cactus",
+    "binomialName": "Cactaceae",
+    "commonName": "Cactus",
+    "toxicity": false,
+    "image": null,
+    "sunExposure": "FULL_SUN",
+    "soilType": "SANDY",
+    "nativeArea": "Americas",
+    "description": "A drought-resistant plant that thrives in dry, sunny environments.",
+    "careLevel": "EASY",
+    "wateringFrequency": "MONTHLY"
+  },
+  {
+    "plantName": "English Ivy",
+    "binomialName": "Hedera helix",
+    "commonName": "English Ivy",
+    "toxicity": true,
+    "image": null,
+    "sunExposure": "PARTIAL_SHADE",
+    "soilType": "MOIST",
+    "nativeArea": "Europe",
+    "description": "A climbing vine with evergreen leaves, often used as ground cover.",
+    "careLevel": "MEDIUM",
+    "wateringFrequency": "WEEKLY"
+  }
+]
